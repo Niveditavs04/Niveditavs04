@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Niveditavs04
-- 👀 I’m interested in web development
+- 👀 I’m interested in Web development, Operating systems and solving problems.
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on web frameworks like flask, Django,etc.
+  
 
 <!---
 Niveditavs04/Niveditavs04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niveditavs04
-- 👀 I’m interested in Web development, Operating systems and solving problems.
+- 👀 I’m interested in Agentic AI, Web development, Operating systems and solving problems.
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on web frameworks like flask, Django,etc.
+- 💞️ I’m looking to collaborate on Multi Agent Systems,  web frameworks like flask, Django,etc.
   
 
 <!---
